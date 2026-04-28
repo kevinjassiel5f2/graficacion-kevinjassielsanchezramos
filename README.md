@@ -1,13 +1,41 @@
-# Proyecto Graficación 2D
+# Proyecto 3D - Unidad 3
 
-## Descripción
-Este proyecto implementa transformaciones 2D usando p5.js:
-- Traslación
-- Rotación
-- Escalamiento
+Este proyecto consiste en una escena 3D interactiva desarrollada con p5.js.
 
-## Controles
-- Animación automática con frameCount
+##  Características
 
-## Tecnologías
+- Objetos 3D:
+  - Cubo
+  - Esfera
+  - Toro
+  - Cono
+
+- Transformaciones aplicadas:
+  - Traslación (translate)
+  - Rotación (rotateX, rotateY, rotateZ)
+  - Escalamiento (scale)
+
+- Animación:
+  - Uso de frameCount
+
+- Interacción:
+  - Control de cámara con orbitControl()
+
+##  Tecnologías
+
 - p5.js
+- JavaScript
+- HTML
+
+## ▶ Cómo ejecutar
+
+1. Descargar el proyecto
+2. Abrir `index.html` en el navegador
+
+##  Evidencia
+
+(Inserta aquí capturas del proyecto funcionando)
+
+##  Autor
+
+[Tu nombre]
